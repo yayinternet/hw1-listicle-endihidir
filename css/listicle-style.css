@@ -86,7 +86,7 @@ body{
   display:flex;
   justify-content: center;
   width: 66.67%;
-  margin-left: 180px;
+  margin-left: auto;
   margin-right: auto;
 }
 .numbers{
