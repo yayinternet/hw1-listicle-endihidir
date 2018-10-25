@@ -24,7 +24,7 @@ body{
 }
 #header-img{
   height: 950px;
-  width: 100%;
+  background-size: cover;
   z-index: 0;
   opacity: 0.7;
   filter: alpha(opacity=50);
